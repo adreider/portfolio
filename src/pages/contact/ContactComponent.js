@@ -10,6 +10,7 @@ import { style } from "glamor";
 
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
+const git = contactPageData.git;
 
 function Contact(props) {
   const theme = props.theme;
@@ -60,7 +61,7 @@ function Contact(props) {
           <div className="blog-heading-div">
             <div className="blog-heading-text-div">
               <h1 className="blog-heading-text" style={{ color: theme.text }}>
-                {blogSection["title"]}
+                {git["title"]}
               </h1>
               <p
                 className="blog-header-detail-text subTitle"
@@ -69,8 +70,8 @@ function Contact(props) {
                 {blogSection["subtitle"]}
               </p>
               <div className="blogsite-btn-div">
-                <a {...styles} className="general-btn" href={blogSection.link}>
-                  My Twitter Profile
+                <a {...styles} className="general-btn" href={git.link}>
+                  My Github Profile
                 </a>
               </div>
             </div>
