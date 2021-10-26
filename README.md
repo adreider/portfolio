@@ -4,7 +4,11 @@
   <img alt="thumb" src="https://github.com/adreider/portfolio/blob/master/.github/thumb.png">
 </p>
 
+---
+
 ## Online 🌐 [link](https://adrianolino.vercel.app)
+
+---
 
 ## Technologies used 🛠️
 
@@ -15,9 +19,13 @@
 - [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
 
+---
+
 ## illustrations 🍥
 
 - [UnDraw](https://undraw.co/illustrations)
+
+---
 
 ## References
 
