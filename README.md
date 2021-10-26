@@ -1,12 +1,8 @@
 # Meu Portólio 💜
 
-<<<<<<< HEAD
-
 <p align="center">
   <img alt="thumb" src="https://github.com/adreider/portfolio/blob/main/.github/thumb.png">
 </p>
-=======
->>>>>>> 781679eb78ea780bde35c90136f478a1bf57400f
 
 # Technologies used 🛠️
 
