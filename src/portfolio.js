@@ -23,7 +23,7 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/adreider",
-  linkedin: "https://www.linkedin.com/in/adriano-lino-de-souza-29847618b/",
+  linkedin: "https://www.linkedin.com/in/adriano-lino-29847618b/",
   gmail: "adreidereconomic@gmail.com",
   gitlab: "https://gitlab.com/adreider",
   facebook: "https://www.facebook.com/profile.php?id=100011320501443",
