@@ -28,7 +28,7 @@ const socialMediaLinks = {
   gitlab: "https://gitlab.com/adreider",
   facebook: "https://www.facebook.com/profile.php?id=100011320501443",
   twitter: "https://twitter.com/drinhanho",
-  instagram: "https://www.instagram.com/dri_lino_",
+  instagram: "https://www.instagram.com/dev.lino/",
 };
 
 const skills = {
