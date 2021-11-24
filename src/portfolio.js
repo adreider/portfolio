@@ -313,14 +313,14 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "M0001: MongoDB Basics",
-      subtitle: "MongoDB University",
-      logo_path: "mongo.png",
+      title: "Arquitetura de Dados",
+      subtitle: "Arquitetura de Dados essencial",
+      logo_path: "enterprise-bi-adf.png",
       certificate_link:
-        "https://drive.google.com/file/d/12se6bMep48WXA1PlizTBAgCnW0GXM6wq/view?usp=sharing",
-      alt_name: "MongoDB University",
+        "https://drive.google.com/file/d/1Iu5G_9zOLHUQ3U8VLIkG32trTCvG2sDv/view?usp=sharing",
+      alt_name: "Digital Innovation One",
       // color_code: "#2AAFED",
-      color_code: "#47A048",
+      color_code: "#fff",
     },
     {
       title: "Hackathon",
