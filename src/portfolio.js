@@ -514,8 +514,7 @@ const projects = {
       id: "6",
       name: "JobsCalc",
       url: "https://github.com/adreider/Maratona-02",
-      description:
-        "JobsCalc é um projeto para calcular o valor de um freelancer por horas trabalhadas",
+      description: "JobsCalc é um projeto para calcular horas trabalhadas",
       languages: [
         {
           name: "HTML5",
