@@ -198,18 +198,13 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Shantilal Shah Engineering College",
-      subtitle: "Bachelor in Information Technology",
-      logo_path: "ssec.png",
+      title: "Universidade Estadual Paulista",
+      subtitle: "Graduação",
+      logo_path: "unesp4.png",
       alt_name: "SSEC",
-      duration: "2021 - Present",
-      descriptions: [
-        "⚡ I'm currently pursuing my bachelors in Information Technology.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-      ],
-      website_link: "http://www.ssgec.ac.in/",
+      duration: "in Progress",
+      descriptions: ["⚡ I'm currently pursuing my bachelors"],
+      website_link: "https://www2.unesp.br",
     },
   ],
 };
@@ -226,15 +221,16 @@ const certifications = {
       // color_code: "#2AAFED",
       color_code: "#fff",
     },
-    // {
-    //   title: "Hackathon",
-    //   subtitle: "Hack The Mountains",
-    //   logo_path: "hackathon1.svg",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
-    //   alt_name: "hackathon",
-    //   color_code: "#E2405F",
-    // },
+    {
+      title: "Typescript",
+      subtitle:
+        "Introdução ao Typescript: Explorando classes, Tipos e Interface",
+      logo_path: "typescritCapa.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1Iu5G_9zOLHUQ3U8VLIkG32trTCvG2sDv/view?usp=sharing",
+      alt_name: "Typescript",
+      color_code: "#002c61",
+    },
     {
       title: "A300: Atlas Security",
       subtitle: "MongoDB University",
