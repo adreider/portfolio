@@ -228,28 +228,26 @@ const certifications = {
       logo_path: "typescritCapa.png",
       certificate_link:
         "https://drive.google.com/file/d/1Iu5G_9zOLHUQ3U8VLIkG32trTCvG2sDv/view?usp=sharing",
-      alt_name: "Typescript",
+      alt_name: "Digital Innovation One",
       color_code: "#002c61",
     },
     {
       title: "A300: Atlas Security",
       subtitle: "MongoDB University",
       logo_path: "mongo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
+      certificate_link: "",
       alt_name: "MongoDB University",
-      // color_code: "#F6B808",
       color_code: "#47A048",
     },
-    // {
-    //   title: "Cyber Security & Cyber Forensics",
-    //   subtitle: "Workshop at IIT Bombay",
-    //   logo_path: "iit.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
-    //   alt_name: "Workshop",
-    //   color_code: "#2AAFED",
-    // },
+    {
+      title: "ReactJs",
+      subtitle: "Trabalhando com componentes encadeados",
+      logo_path: "reactLogo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1Iu5G_9zOLHUQ3U8VLIkG32trTCvG2sDv/view?usp=sharing",
+      alt_name: "Digital Innovation One",
+      color_code: "#6ec6e2",
+    },
     // {
     //   title: "MLH Local Hack Day: Build",
     //   subtitle: "Major League Hacking",
@@ -263,8 +261,7 @@ const certifications = {
       title: "Postman Student Expert",
       subtitle: "Postman",
       logo_path: "postman.png",
-      certificate_link:
-        "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
+      certificate_link: "",
       alt_name: "Postman",
       // color_code: "#f36c3d",
       color_code: "#fffbf3",
